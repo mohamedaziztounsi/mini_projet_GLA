@@ -3,7 +3,7 @@
 ## présentation 
 ceci est un prototype de projet en analyse de donnée
 
-<img src='img/pandasseries_redo.png' >
+<img src='img/pandasseries_redo.png' width='260px' >
 
 ## :file_folder: dataset
 
